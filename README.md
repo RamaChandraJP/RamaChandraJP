@@ -5,7 +5,7 @@
 ### Connect With Me !!!
 
 - 🔭 I'm currently working on **AWS Cloud Infrastructure** and **DevOps Automation**
-- 🌱 I'm currently learning **Advanced Kubernetes** and **Multi-Cloud Strategies**
+- 🌱 I'm currently learning **Advanced Kubernetes** and **Monitoring tools**
 - 💬 Ask me about **AWS, Docker, Kubernetes, CI/CD, Infrastructure as Code**
 - 📫 You can reach me at **ramr0398@gmail.com**
 
