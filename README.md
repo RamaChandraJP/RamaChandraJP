@@ -72,7 +72,7 @@ Designed and deployed containerized microservices using Docker, and orchestrated
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-url](https://in.linkedin.com/in/ramachandra-j-p-8a6a531b0))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-url](https://in.linkedin.com/in/ramachandra-j-p-8a6a531b0)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ramr0398@gmai.com)
 
 ---
