@@ -17,6 +17,8 @@
 ![YAML](https://img.shields.io/badge/-YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![HCL](https://img.shields.io/badge/-HCL-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
+
 
 ---
 
@@ -29,6 +31,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 
 ---
 
