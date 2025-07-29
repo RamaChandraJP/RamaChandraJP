@@ -1,4 +1,4 @@
-## Hi there, fellow <DevOps Engineers/> 👋
+## Hi there, fellow DevOps Engineers 👋
 
 ## I'm RamaChandra JP
 
