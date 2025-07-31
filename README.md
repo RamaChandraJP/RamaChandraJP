@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on **AWS Cloud** and **DevOps Automation**
 - 🐳 Actively using **Docker Compose** for containerized multi-service applications 
 - 🌱 I'm currently learning **Advanced Kubernetes** and **Monitoring tools**
-- ⚙️ Building CI/CD pipelines using **GitHub Actions**
+- ⚙️ Building CI/CD pipelines using **GitHub Actions** and **Jenkins**
 - ☁️ Passionate about building scalable, secure, and automated infrastructure
 - 💬 Ask me about **AWS, Docker, Kubernetes, CI/CD, Infrastructure as Code**
 - 📫 You can reach me at **ramr0398@gmail.com**
