@@ -55,6 +55,7 @@
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
+ <img src="https://git-stats-plum.vercel.app/api/wakatime?username=RamaChandraJP&layout=compact&theme=react&hide_border=true" /><br>
 
 ## 🚀 Recent Projects
 
