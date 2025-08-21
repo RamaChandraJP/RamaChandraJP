@@ -21,7 +21,6 @@
 ![HCL](https://img.shields.io/badge/-HCL-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Groovy](https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white)
 
-
 ---
 
 ## ☁️ Cloud & DevOps Tools
@@ -29,21 +28,36 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/-K3s-FFC61C?style=flat-square&logo=k3s&logoColor=black)
 ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 ![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
+---
+
+## API Gateway
+
+![Kong](https://img.shields.io/badge/-Kong-003459?style=flat-square&logo=kong&logoColor=white)
 
 ---
+
 
 ## 📊 Monitoring & Observability
 
 ![CloudWatch](https://img.shields.io/badge/-CloudWatch-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
+![Data Prepper](https://img.shields.io/badge/-Data%20Prepper-FF6F00?style=flat-square&logo=apache&logoColor=white)
+
+---
+
+##  Server
+
+![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Hetzner](https://img.shields.io/badge/-Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 
 ---
 
@@ -55,6 +69,7 @@
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
+
  <img src="https://git-stats-plum.vercel.app/api/wakatime?username=RamaChandraJP&layout=compact&theme=react&hide_border=true" /><br>
 
 ## 🚀 Recent Projects
