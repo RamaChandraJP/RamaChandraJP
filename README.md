@@ -51,6 +51,7 @@
 ![CloudWatch](https://img.shields.io/badge/-CloudWatch-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 ![Data Prepper](https://img.shields.io/badge/-Data%20Prepper-FF6F00?style=flat-square&logo=apache&logoColor=white)
+![OpenTelemetry Collector](https://img.shields.io/badge/-OpenTelemetry%20Collector-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
 ---
 
