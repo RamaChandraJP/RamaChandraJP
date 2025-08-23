@@ -75,17 +75,13 @@
 
 ## 🚀 Recent Projects
 
-🏗️ **Deployed Django Web Application** --
-Built and deployed a Django-based web app using Docker containers and automated CI/CD pipelines with Jenkins for streamlined delivery.
+🏗️ **Deployed Django Web Application** -- Built and deployed a Django-based web app using Docker containers and automated CI/CD pipelines with Jenkins for streamlined delivery.
 
-🔄 **Infrastructure Automation with Ansible** --
-Automated the provisioning and setup of Jenkins using Ansible playbooks to ensure consistent, repeatable environments and faster onboarding.
+🔄 **Infrastructure Automation with Ansible** -- Automated the provisioning and setup of Jenkins using Ansible playbooks to ensure consistent, repeatable environments and faster onboarding.
 
-🐳 **Containerized Microservices Architecture** --
-Designed and deployed containerized microservices using Docker, and orchestrated with Docker compose for scalability and high availability.
+🐳 **Containerized Microservices Architecture** -- Designed and deployed containerized microservices using Docker, and orchestrated with Docker compose for scalability and high availability.
 
-🐳🍃 **MongoDB Replica Set with Docker Compose** --  
-This repository contains a **3-node MongoDB replica set** running on Docker Compose. 
+🐳🍃 **MongoDB Replica Set with Docker Compose** --  This repository contains a **3-node MongoDB replica set** running on Docker Compose. 
 
 ---
 
