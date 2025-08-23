@@ -84,6 +84,9 @@ Automated the provisioning and setup of Jenkins using Ansible playbooks to ensur
 🐳 **Containerized Microservices Architecture** --
 Designed and deployed containerized microservices using Docker, and orchestrated with Docker compose for scalability and high availability.
 
+# 🐳🍃 **MongoDB Replica Set with Docker Compose** --  
+This repository contains a **3-node MongoDB replica set** running on Docker Compose. 
+
 ---
 
 ## 📫 Let's Connect!
