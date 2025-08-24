@@ -83,6 +83,8 @@
 
 🍃🐳 **MongoDB Replica Set with Docker Compose** --  This repository contains a **3-node MongoDB replica set** running on Docker Compose. 
 
+🐳**Docker Networks** – This project showing how to isolate services with **Docker networks**.
+
 ---
 
 ## 📫 Let's Connect!
