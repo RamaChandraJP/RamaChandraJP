@@ -52,6 +52,8 @@
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
 ![Data Prepper](https://img.shields.io/badge/-Data%20Prepper-FF6F00?style=flat-square&logo=apache&logoColor=white)
 ![OpenTelemetry Collector](https://img.shields.io/badge/-OpenTelemetry%20Collector-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
