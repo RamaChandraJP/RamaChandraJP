@@ -79,13 +79,11 @@
 
 🏗️ **Deployed Django Web Application** -- Built and deployed a Django-based web app using Docker containers and automated CI/CD pipelines with Jenkins for streamlined delivery.
 
+📊 **Monitor an AWS EC2 instance with ⚙️ Terraform & 🐳 Docker Compose — using Prometheus, Grafana, and Node Exporter 🖥️ on a single instance to save costs 💰**
+
 🔄 **Infrastructure Automation with Ansible** -- Automated the provisioning and setup of Jenkins using Ansible playbooks to ensure consistent, repeatable environments and faster onboarding.
 
 🐳 **Containerized Microservices Architecture** -- Designed and deployed containerized microservices using Docker, and orchestrated with Docker compose for scalability and high availability.
-
-📊 **Monitor an AWS EC2 instance with ⚙️ Terraform & 🐳 Docker Compose — using Prometheus, Grafana, and Node Exporter 🖥️ on a single instance to save costs 💰**
-
-🍃🐳 **MongoDB Replica Set with Docker Compose** --  This repository contains a **3-node MongoDB replica set** running on Docker Compose. 
 
 🐳**Docker Networks** – This project showing how to isolate services with **Docker networks**.
 
