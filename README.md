@@ -73,7 +73,7 @@
 
 ---
 
- <img src="https://git-stats-plum.vercel.app/api/wakatime?username=RamaChandraJP&layout=compact&theme=react&hide_border=true" /><br>
+ <!--<img src="https://git-stats-plum.vercel.app/api/wakatime?username=RamaChandraJP&layout=compact&theme=react&hide_border=true" /><br> -->
 
 ## 🚀 Recent Projects
 
